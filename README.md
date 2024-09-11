@@ -1,20 +1,31 @@
 # 06-Fcc-Rothko-Painiting
 
-> One paragraph statement about the project.
+> A CSS Webpage built with HTML5 and CSS
 
-![screenshot](./app_screenshot.png)
+![06-fcc-rothko-painting](./app_screenshot.png)
 
-Additional description of the project and its features.
+It's a project, that I used CSS and HTML5 to learn about box model, spacing, border, padding and others elements.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5,
+ -`div`:used to group block-level content and structure an HTML document.
+- CSS
+ - `spacing`:Its adjusts the space between words in an element
+ - `border`: its property is used to define the outline of an element
+ - `padding`: its is used to create space around an element's content, inside any defined borders
+ - `background-color`:is used to set the background color of an element. 
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+[Deployment Link](https://vercel.com/onikosi-omotayo-eniolas-projects/06-fcc-rothko-painting)
 
 ### Development (Running locally)
 
