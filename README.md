@@ -8,12 +8,13 @@ It's a project, that I used CSS and HTML5 to learn about box model, spacing, bor
 
 ## Built With
 
-- HTML5, -`div`:used to group block-level content and structure an HTML document.
+- HTML5 
+   - `div`:used to group block-level content and structure an HTML document.
 - CSS
-- `spacing`:Its adjusts the space between words in an element
-- `border`: its property is used to define the outline of an element
-- `padding`: its is used to create space around an element's content, inside any defined borders
-- `background-color`:is used to set the background color of an element.
+  - `spacing`:Its adjusts the space between words in an element
+  - `border`: its property is used to define the outline of an element
+  - `padding`: its is used to create space around an element's content, inside any defined borders
+  - `background-color`:is used to set the background color of an element.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
@@ -32,7 +33,7 @@ It's a project, that I used CSS and HTML5 to learn about box model, spacing, bor
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
