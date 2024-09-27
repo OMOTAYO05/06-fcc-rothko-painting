@@ -8,8 +8,8 @@ It's a project, that I used CSS and HTML5 to learn about box model, spacing, bor
 
 ## Built With
 
-- HTML5 
-   - `div`:used to group block-level content and structure an HTML document.
+- HTML5
+  - `div`:used to group block-level content and structure an HTML document.
 - CSS
   - `spacing`:Its adjusts the space between words in an element
   - `border`: its property is used to define the outline of an element
